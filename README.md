@@ -2,7 +2,7 @@
 
 This project is a template for a java Spring Boot application with MongoDB Atlas Search using Spring Data MongoDB.
 
-For more information about this repository, watch the related video.
+For more information about this repository, consult the related [blog post](https://www.baeldung.com/mongodb-spring-data-atlas-search) and video.
 
 # Prerequisites
 
